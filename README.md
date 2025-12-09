@@ -47,7 +47,8 @@ Quantos torcedores do flamengo e do vasco? 5 5
 Quantos ex1 e ex2? 2 2
 Quantos fofoqueiros e vitimas? 1 3
 
-### Saida:
+Saída:
+´´´bash
   Convidados organizados
 Mesa 1:  Policial_1  Policial_2  Policial_3  Devedor_1 
 Mesa 2:  Bandido_1  Bandido_2  Bandido_3  Bandido_4 
