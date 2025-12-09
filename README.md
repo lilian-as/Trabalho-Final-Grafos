@@ -10,7 +10,7 @@ Este projeto implementa em **C** uma analogia divertida do problema de **Colora�
    ```bash
    gcc festa_grafos.c -o festa
 2. Execute:
-   bash
+   ```bash
    ./festa
 
 4. Informe os dados solicitados (quantidade de convidados de cada tipo e número de mesas).
@@ -35,15 +35,17 @@ organizar_festa: distribui convidados nas mesas usando uma heurística gulosa.
 imprimir_mesas: mostra a distribuição final.
 
 📚 Exemplo de uso
-   
+   Entrada:
+   ```text
    Digite o numero maximo de mesas: 10
    Quantos policias e bandidos? 3 4
    Quantos devedores e agiotas? 3 4
    Quantos torcedores do flamengo e do vasco? 5 5
    Quantos ex1 e ex2? 2 2
    Quantos fofoqueiros e vitimas? 1 3
-   
+
    Saída:
+   ```tex
    
     Convidados organizados
    Mesa 1:  Policial_1  Policial_2  Policial_3  Devedor_1 
